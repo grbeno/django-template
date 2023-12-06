@@ -20,11 +20,12 @@
 
   - ``` # Generate secret key ```
   - ``` $ python -c 'import secrets;print(secrets.token_urlsafe())' ```
+  - ``` DATABASE_URL=postgres://postgres:<password>@localhost:5432/<database>```
 
-- Migrate the models to database & run collectstatic to static files
+- Migrate the models to database & run collectstatic for the static files
 
   - ``` $ pipenv shell ```
   - ``` $ python manage.py migrate ```
   - ``` $ python manage.py collectstatic --noinput ```
   
-- Initialize your own git repo and commit/push to a github repository  
+- Initialize your own git repo and commit/push to github
