@@ -1,0 +1,19 @@
+
+/* Home Page */
+
+body {
+    background-color: rgb(104, 112, 104);
+}
+
+.title-line {
+    background-color: rgb(149, 197, 149);
+    font-family: 'Roboto', sans-serif;
+    justify-content: center;
+    display: flex;
+}
+
+.container {
+    font-family: 'Roboto', sans-serif;
+    justify-content: center;
+    display: flex;
+}
