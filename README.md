@@ -20,7 +20,7 @@
 
   - ``` # Generate secret key ```
   - ``` $ python -c 'import secrets;print(secrets.token_urlsafe())' ```
-  - ``` DATABASE_URL=postgres://postgres:<password>@localhost:5432/<database>```
+  - ``` DATABASE_URL=postgres://postgres:<password>@localhost:5432/<database> ```
 
 - Migrate the models to database & run collectstatic for the static files
 
