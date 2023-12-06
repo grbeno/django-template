@@ -7,6 +7,7 @@
 
 - Download the zip file
 - Create your own virtual environment on your project directory and install the required libraries/packages. (pipenv) 
+
   - ```$ pipenv install -r requirements.txt```
 
 - Create postgres database on your local system
