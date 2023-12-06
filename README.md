@@ -22,8 +22,8 @@
 
 - Migrate the models to database & run collectstatic to static files
 
- - ``` $ pipenv shell ```
- - ``` $ python manage.py migrate ```
- - ``` $ python manage.py collectstatic --noinput ```
+  - ``` $ pipenv shell ```
+  - ``` $ python manage.py migrate ```
+  - ``` $ python manage.py collectstatic --noinput ```
   
 - Initialize your own git repo and commit/push to a github repository  
