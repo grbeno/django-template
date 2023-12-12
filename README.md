@@ -1,7 +1,7 @@
 ## Django sample project
 ---
 - django 4.2.7, custom user model, staticfiles, postgres.
-- prepare for deploying: requirements.txt, environs, whitenoise, gunicorn.
+- prepared to deploy: requirements.txt, environs, whitenoise, gunicorn.
 ---
 
 ### How to use
