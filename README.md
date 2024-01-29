@@ -28,11 +28,6 @@
   - ``` $ pipenv shell ```
   - ``` $ python manage.py migrate ```
   - ``` $ python manage.py collectstatic --noinput ```
-
-- Install node modules and build
-
-  -  ``` $ npm install ```
-  -  ``` $ npm run build ```
     
 - Run on localhost
   -  ``` $ python manage.py runserver ```
