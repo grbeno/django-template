@@ -1,4 +1,4 @@
-## Django sample project
+## Django template project
 ---
 - django 4.2.7, custom user model, staticfiles, postgres.
 - prepared to deploy: requirements.txt, environs, whitenoise, gunicorn.
